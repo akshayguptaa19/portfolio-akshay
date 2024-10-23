@@ -70,7 +70,7 @@
     <h2>Contact</h2>
     <p>If you'd like to get in touch, feel free to reach out:</p>
     <ul>
-        <li>Email: <a href="mailto:alex.smith@example.com">akshayguptaa19@gmail.com</a></li>
+        <li>Email: <a href="mailto:akshay guptaa19@gmail.com">akshayguptaa19@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/akshay-gupta-022194327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">AKSHAY GUPTA's LinkedIn</a></li>
         <li>GitHub: <a href=" https://github.com/akshayguptaa19" target="_blank">AKSHAY GUPTA's GitHub</a></li>
     </ul>
